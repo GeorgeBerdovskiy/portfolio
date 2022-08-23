@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'George Berdovskiy'
+
+[params]
+	home_text = "Hello! My name is George."
