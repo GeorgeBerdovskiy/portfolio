@@ -1,9 +1,15 @@
 <h3 style="margin-bottom: 8px;">
 	<div class="section-icon-container">
-		{{ if eq (.Get "kind") ("description") }}
+		{{ $kind := .Get "kind" }}
+
+		{{ if (eq $kind "description") }}
 		    <img src="/images/icons/Description.svg"/>
-		{{ else if eq (.Get "kind") ("desktop screenshots") }}
+		{{ else if (eq $kind "technologies") }}
+			<img src="/images/icons/Technologies.svg"/>
+		{{ else if (eq $kind "desktop") }}
 		    <img src="/images/icons/Desktop.svg"/>
+		{{ else if (eq $kind "mobile") }}
+			<img src="/images/icons/Mobile.svg"/>
 		{{ end }}
 	</div>
 	

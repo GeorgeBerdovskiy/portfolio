@@ -4,5 +4,8 @@ tags: ["ReactJS", "Google Firebase"]
 draft: true
 ---
 
-{{< header-with-icon kind="description" title="Description" >}}
+{{< section-header kind="description" title="Description" >}}
+The description will go here.
+
+{{< section-header kind="desktop" title="Desktop Screenshots" >}}
 The description will go here.
