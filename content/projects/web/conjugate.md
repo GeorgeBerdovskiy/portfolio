@@ -2,10 +2,22 @@
 title: "Conjugate"
 tags: ["ReactJS", "Google Firebase"]
 draft: true
+aliases:
+- /projects/web/conjugate.html
 ---
 
 {{< section-header kind="description" title="Description" >}}
+
+The description will go here.
+
+{{< section-header kind="code" title="Technologies and Languages" >}}
+
+The description will go here.
+
+{{< section-header kind="mobile" title="Mobile Screenshots" >}}
+
 The description will go here.
 
 {{< section-header kind="desktop" title="Desktop Screenshots" >}}
-The description will go here.
+
+{{< image-carousel path_name="conjugate" kind="desktop" >}}
