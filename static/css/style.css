@@ -212,7 +212,7 @@ ol {
 	width: 100%;
 }
 
-.desktop-screenshots {
+.image-carousel {
 	width: 100%;
 	height: 500px;
 
@@ -223,8 +223,8 @@ ol {
 	padding: 16px;
 }
 
-.desktop-screenshots img,
-.desktop-screenshots iframe {
+.image-carousel img,
+.image-carousel iframe {
 	height: 100%;
 
 	display: inline-block;
@@ -235,11 +235,11 @@ ol {
 	margin-right: 16px;
 }
 
-.desktop-screenshots iframe {
+.image-carousel iframe {
 	width: 830px;
 }
 
-/*.desktop-screenshots img::after {
+/*.image-carousel img::after {
   content: "";
   clear: both;
   display: table;

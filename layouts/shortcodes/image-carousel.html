@@ -1,12 +1,12 @@
-<div class="desktop-screenshots" style="margin-bottom: 32px;">
+<div class="image-carousel" style="margin-bottom: 32px;">
 	{{ $path_name := .Get "path_name" }}
 	{{ $kind := .Get "kind" }}
 
 	{{ $directory_path := printf "/%s" $kind | printf "/static/images/screenshots/%s%s/" $path_name }}
-	<p>{{ $directory_path }}</p>
+	{{ $file_path := printf "/%s" $kind | printf "/images/screenshots/%s%s/" $path_name }}
 
 	{{ range readDir $directory_path }}
-	    {{ $static_path := printf "%s" .Name | printf "/images/screenshots/conjugate/desktop/%s" }}
+	    {{ $static_path := printf "%s" .Name | printf "%s%s" $file_path }}
 	    <img src="{{ $static_path }}" />
 	{{ end }}
 </div>

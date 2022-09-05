@@ -1,15 +1,18 @@
 <nav>
-	<a class="nostyle" href="index.html">
+	<a class="nostyle" href="/">
 		<h1>George Berdovskiy</h1>
 	</a>
 
 	<div style="display: flex;">
+		{{ $linkedin := "images/icons/LinkedIn.svg" | relURL }}
+		{{ $github := "images/icons/GitHub.svg" | relURL }}
+
 		<a class="any-button small-button linkedin" href="https://www.linkedin.com/in/george-berdovskiy-802bb5216" target="_blank">
-			<img src="/images/icons/LinkedIn.svg" width="100%" height="100%"/>
+			<img src="{{ $linkedin }}" width="100%" height="100%"/>
 		</a>
 
 		<a class="any-button small-button github" href="https://github.com/GeorgeBerdovskiy" target="_blank">
-			<img src="/images/icons/GitHub.svg" width="100%" height="100%"/>
+			<img src="{{ $github }}" width="100%" height="100%"/>
 		</a>
 	</div>
 </nav>
