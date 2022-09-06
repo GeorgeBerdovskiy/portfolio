@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	{{ partial "head.html" . }}
+	
+	<body>
+		{{ partial "background.html" . }}
+
+		{{ partial "header.html" . }}
+
+		<div class="content">
+         <a class="nostyle" href="projects.html">
+            <h3 style="color: #A4ACB7;">Projects</h3>
+         </a>
+         <h2 style="margin-bottom: 32px;">{{ .Title }}</h2>
+
+         <div class="projects-container-div">
+            {{ .Content }}
+         </div>
+      </div>
+	</body>
+</html>
