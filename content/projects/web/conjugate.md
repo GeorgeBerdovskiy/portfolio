@@ -14,7 +14,8 @@ The description will go here.
 
 {{< section-header kind="code" title="Technologies and Languages" >}}
 
-The description will go here.
+**Frontend -** ReactJS  
+**Backend -** Google Firebase
 
 
 {{< section-header kind="mobile" title="Mobile Screenshots" >}}
