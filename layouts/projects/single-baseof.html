@@ -9,7 +9,7 @@
 			{{ partial "header.html" . }}
 
 			<div class="content-header">
-				<h3 style="color: #A4ACB7;"><a class="nostyle" href="/projects">Projects</a> / <a class="nostyle" href="/projects/web">{{ .CurrentSection.Title }}</a></h3>
+				<h3 style="color: #A4ACB7;"><a class="nostyle" href="/projects">Projects</a> / <a class="nostyle" href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.Title }}</a></h3>
 				<h2>{{ .Title }}</h2>
 			</div>
 		</div>

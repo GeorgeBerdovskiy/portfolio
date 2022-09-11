@@ -30,35 +30,6 @@ nav {
 	box-shadow: 0px 0px 36px -6px rgba(0, 0, 0, 0.1)
 }
 
-nav ul {
-	list-style: none;
-}
-
-nav ul li {
-	display: inline-block;
-}
-
-nav ul li a {
-	font-family: 'Inter', sans-serif;
-	font-weight: 800;
-	font-size: 1.25rem;
-	color: #000000;
-	text-decoration: none;
-	vertical-align: middle;
-}
-
-nav ul li a:hover {
-	color: #3742FA;
-}
-
-nav ul li a.active {
-	font-weight: 800;
-	font-size: 1.5rem;
-	color: #3742FA;
-
-	border-bottom: 4px solid currentColor;
-}
-
 h1 {
 	margin: 0px;
 
@@ -99,8 +70,7 @@ p {
 	margin-top: 0px;
 }
 
-.inside-content ul,
-ol {
+.inside-content ul, ol {
 	font-family: 'Inter', sans-serif;
 	font-weight: normal;
 	font-size: 1.5rem;
@@ -109,9 +79,9 @@ ol {
 	margin-bottom: 32px;
 }
 
-.regular-a {
+.regular-a, .inside-content-inside a {
 	font-weight: bold;
-	color: #3742FA;
+	color: black;
 	text-decoration: none;
 
 	border-bottom: 3px solid currentColor;
@@ -179,10 +149,6 @@ ol {
 	padding: 24px 32px 32px 32px
 }
 
-* {
-	box-sizing: border-box;
-}
-
 /* GENERAL */
 .header-icon {
 	width: 1.5rem;
@@ -238,13 +204,6 @@ ol {
 .image-carousel iframe {
 	width: 830px;
 }
-
-/*.image-carousel img::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-*/
 
 /* LANDING PAGE */
 .split-flex-container {
@@ -447,9 +406,7 @@ svg {
 		line-height: 2.25rem;
 	}
 
-	h3,
-	p,
-	li {
+	h3, p, li {
 		font-size: 1rem;
 		line-height: 1.25rem;
 	}
