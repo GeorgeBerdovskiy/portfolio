@@ -1,6 +1,3 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://georgeberdovskiy.com'
 languageCode = 'en-us'
 title = 'George Berdovskiy'
-
-[params]
-	home_text = "Hello! My name is George."

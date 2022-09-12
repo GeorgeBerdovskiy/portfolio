@@ -340,6 +340,28 @@ svg {
 	margin-bottom: 32px;
 }
 
+.section-icon-container {
+	width: 32px;
+	height: 24px;
+
+	display: inline-block;
+	vertical-align: bottom;
+	position: relative;
+
+	background-color: #e8e8e8;
+	border-radius: 6px;
+
+	margin-right: 4px;
+}
+
+.section-icon-container img {
+	width: 100%;
+	padding: 4px;
+
+	position: absolute;
+	top: -10px;
+}
+
 /* VARIABLES */
 :root {
 	--large-padding: 128px;
@@ -438,6 +460,16 @@ svg {
 
 	.linkedin {
 		margin-right: 8px;
+	}
+
+	.section-icon-container {
+		width: 24px;
+		height: 12px;
+		border-radius: 4px;
+	}
+
+	.section-icon-container img {
+		top: -12px;
 	}
 }
 
