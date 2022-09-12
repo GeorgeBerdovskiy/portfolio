@@ -18,7 +18,7 @@ Updates to shelter information are immediately seen on the shelter map. First re
 
 While on the team, I helped code the feedback and updated counter features, improved site security, and fully redesigned the website UI to be more professional and accessible. As lead member during my Junior year, I also communicated with our partners to determine areas where the application can be improved and trained new members for both the programming and communication areas of the project.
 
-Please free to visit the website and watch the demo video at shelterfinder.org. 
+Please free to visit the website and watch the demo video at {{< standard-anchor link="https://shelterfinder.org" content="https://shelterfinder.org" >}}. 
 
 
 {{< section-header kind="code" title="Technologies and Languages" >}}

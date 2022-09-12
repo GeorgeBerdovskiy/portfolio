@@ -1,0 +1,78 @@
+[
+	{
+		"image": "https://images.unsplash.com/photo-1522083165195-3424ed129620?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3794&q=80",
+		"translation": "She visits New York with her grandparents.",
+		"first_half": "Ella",
+		"conjugated_verb": "visita",
+		"second_half": "Nueva York con sus abuelos.",
+		"verb_information": {
+			"id":"visitar",
+			"translation":"to visit",
+			"conjugation":{
+				"yo":"visito",
+				"tú":"visitas",
+				"el_ella_ud":"visita",
+				"nosotros":"visitamos",
+				"vosotros":"visitáis",
+				"ellos_ellas_uds":"visitan"
+			}
+    	}
+	},
+	{
+	    "image": "https://images.unsplash.com/photo-1561758033-d89a9ad46330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3540&q=80",
+		"translation": "They eat hamburgers.",
+		"first_half": "Ellos",
+		"conjugated_verb": "comen",
+		"second_half": "hamburguesas.",
+		"verb_information": {
+			"id":"comer",
+			"translation":"to eat",
+			"conjugation":{
+				"yo":"como",
+				"tú":"comes",
+				"el_ella_ud":"come",
+				"nosotros":"comemos",
+				"vosotros":"coméis",
+				"ellos_ellas_uds":"comen"
+			}
+      	}
+	},
+	{
+	    "image": "https://images.unsplash.com/photo-1557180295-76eee20ae8aa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=mike-meyers--haAxbjiHds-unsplash.jpg",
+	    "translation": "On Wednesdays, I always speak with my friend over the phone.",
+	    "first_half": "Los miércoles, siempre",
+	    "conjugated_verb": "hablo",
+	    "second_half": "con mi amigo por teléfono.",
+	    "verb_information": {
+	        "id": "hablar",
+            "translation": "to speak",
+            "conjugation": {
+                "yo": "hablo",
+                "tú": "hablas",
+                "el_ella_ud": "habla",
+                "nosotros": "hablamos",
+                "vosotros": "habláis",
+                "ellos_ellas_uds": "hablan"
+            }
+	    }
+	},
+	{
+	    "image": "https://images.unsplash.com/photo-1607349913338-fca6f7fc42d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80",
+	    "translation": "Johnny goes to the store every weekend.",
+	    "first_half": "Johnny",
+	    "conjugated_verb": "va",
+	    "second_half": "a la tienda cada fin de semana.",
+	    "verb_information": {
+            "id": "ir",
+            "translation": "to go",
+            "conjugation": {
+                "yo": "voy",
+                "tú": "vas",
+                "el_ella_ud": "va",
+                "nosotros": "vamos",
+                "vosotros": "vais",
+                "ellos_ellas_uds": "van"
+            }
+	    }
+	}
+]
