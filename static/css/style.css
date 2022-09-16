@@ -209,6 +209,7 @@ p {
 .split-flex-container {
 	display: flex;
 	height: 100%;
+	flex-grow: 1;
 }
 
 .split-flex-item {
@@ -222,10 +223,11 @@ p {
 
 .half-height {
 	height: auto;
+	padding-top: 64px;
 
 	display: flex;
-	justify-content: center;
-	align-items: center;
+	justify-content: space-around;
+	align-items: flex-start;
 }
 
 .landing-mockup {
