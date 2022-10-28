@@ -245,6 +245,7 @@ p {
 	bottom: 48px;
 	max-width: 100%;
 	border-radius: 100%;
+	z-index: 5;
 }
 
 /* PROJECTS */
