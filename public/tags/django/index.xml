@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Django on George Berdovskiy</title>
+    <link>https://georgeberdovskiy.com/tags/django/</link>
+    <description>Recent content in Django on George Berdovskiy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://georgeberdovskiy.com/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shelter Finder</title>
+      <link>https://georgeberdovskiy.com/projects/web/shelter-finder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/projects/web/shelter-finder/</guid>
+      <description>Description Shelter Finder is a web application that helps first responders find beds for people without housing in local shelters, and is hosted by FRC Team 1678 Citrus Circuits as an outreach project.
+Shelters can enter and update information about themselves, such as their address, hours, and the total number of beds offered. Shelter staff can use the counter feature to update the number of occupied beds. Depending on its needs, a shelter may choose to use a combination of male, female, nonspecific, and family counters.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on George Berdovskiy</title>
+    <link>https://georgeberdovskiy.com/tags/</link>
+    <description>Recent content in Tags on George Berdovskiy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://georgeberdovskiy.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS</title>
+      <link>https://georgeberdovskiy.com/tags/aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>https://georgeberdovskiy.com/tags/django/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FastAPI</title>
+      <link>https://georgeberdovskiy.com/tags/fastapi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/tags/fastapi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flask</title>
+      <link>https://georgeberdovskiy.com/tags/flask/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Firebase</title>
+      <link>https://georgeberdovskiy.com/tags/google-firebase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/tags/google-firebase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Maps API</title>
+      <link>https://georgeberdovskiy.com/tags/google-maps-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/tags/google-maps-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petite Vue</title>
+      <link>https://georgeberdovskiy.com/tags/petite-vue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/tags/petite-vue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://georgeberdovskiy.com/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReactJS</title>
+      <link>https://georgeberdovskiy.com/tags/reactjs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/tags/reactjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift</title>
+      <link>https://georgeberdovskiy.com/tags/swift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/tags/swift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veterinary Sedations</title>
+      <link>https://georgeberdovskiy.com/tags/veterinary-sedations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/tags/veterinary-sedations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

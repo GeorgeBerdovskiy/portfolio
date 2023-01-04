@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Petite Vue on George Berdovskiy</title>
+    <link>https://georgeberdovskiy.com/tags/petite-vue/</link>
+    <description>Recent content in Petite Vue on George Berdovskiy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://georgeberdovskiy.com/tags/petite-vue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(ASDI) Plant Here!</title>
+      <link>https://georgeberdovskiy.com/projects/competitions/asdi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/projects/competitions/asdi/</guid>
+      <description>Description For the Amazon Sustainability Data Initiative Global Hackathon (2022), I worked with UCD computer science undergraduates Jake Roggenbuck and Terry Tong to build Plant Here, a web application that allows users to determine the best locations to plant their crops (or what kind of crops to plant in their location) based on rainfall and soil data for that region.
+The most challenging obstacle we encountered was collecting the datasets from their respective AWS S3 buckets, as the file sizes were very large!</description>
+    </item>
+    
+  </channel>
+</rss>

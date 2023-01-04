@@ -365,22 +365,6 @@ svg {
 	top: -10px;
 }
 
-.date-tag {
-	background-color: #3742FA52;
-	width: fit-content;
-	padding: 4px 8px 4px 8px;
-	border-radius: 8px;
-	font-family: 'Inter', sans-serif;
-	font-weight: 700;
-	font-size: 1rem;
-	color: white;
-}
-
-/* MARGINS */
-.margin-bottom-quarter {
-	margin-bottom: 8px;
-}
-
 /* VARIABLES */
 :root {
 	--large-padding: 128px;
@@ -489,14 +473,6 @@ svg {
 
 	.section-icon-container img {
 		top: -12px;
-	}
-
-	.margin-bottom-quarter {
-		margin-bottom: 4px;
-	}
-
-	.date-tag {
-		font-size: 0.75rem;
 	}
 }
 

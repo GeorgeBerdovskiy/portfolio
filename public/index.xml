@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on George Berdovskiy</title>
+    <link>https://georgeberdovskiy.com/</link>
+    <description>Recent content in Home on George Berdovskiy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://georgeberdovskiy.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(ASDI) Plant Here!</title>
+      <link>https://georgeberdovskiy.com/projects/competitions/asdi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/projects/competitions/asdi/</guid>
+      <description>Description For the Amazon Sustainability Data Initiative Global Hackathon (2022), I worked with UCD computer science undergraduates Jake Roggenbuck and Terry Tong to build Plant Here, a web application that allows users to determine the best locations to plant their crops (or what kind of crops to plant in their location) based on rainfall and soil data for that region.
+The most challenging obstacle we encountered was collecting the datasets from their respective AWS S3 buckets, as the file sizes were very large!</description>
+    </item>
+    
+    <item>
+      <title>Conjugate</title>
+      <link>https://georgeberdovskiy.com/projects/web/conjugate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/projects/web/conjugate/</guid>
+      <description>Description Conjugate is a free web application that helps students learn Spanish conjugations with short quizzes. Users can either generate random quizzes by selecting the number of verbs and verb endings they wish to study or create their own study sets by manually selecting verbs from our collection (which contains around 500). These tools are a great way to improve conjugation skills or study for Spanish exams!
+Quizzes are in the form of a conjugation table that the user needs to fill.</description>
+    </item>
+    
+    <item>
+      <title>NASA Space Apps 2020</title>
+      <link>https://georgeberdovskiy.com/projects/competitions/nasa-spaceapps-2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/projects/competitions/nasa-spaceapps-2020/</guid>
+      <description>Description For NASA Space Apps 2020, I worked with my friend Shuzheng (Tom) Zhang to build the HEASARC and NEOSSat Data Viewer. This Flask web application allows users to explore data about astronomical objects collected by NASA and the Canadian Space Agency.
+Cosmic objects such as stars, galaxies, and asteroids are displayed on a rotating JavaScript sky map developed by Sonia Zorba. Users can click on an object they&amp;rsquo;re interested in, and detailed information about it will be displayed below.</description>
+    </item>
+    
+    <item>
+      <title>PBSOC</title>
+      <link>https://georgeberdovskiy.com/projects/mobile/pbsoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/projects/mobile/pbsoc/</guid>
+      <description> Description Description goes here.
+Technologies and Languages This application was developed with Swift, uses a storyboard UI, and stores patient data locally with Core Data.
+Mobile Screenshots Videos </description>
+    </item>
+    
+    <item>
+      <title>Scry</title>
+      <link>https://georgeberdovskiy.com/projects/competitions/scry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/projects/competitions/scry/</guid>
+      <description>Description For DeveloperWeek 2021, I worked with my friends Shuzheng (Tom) Zhang and Jake Roggenbuck to build Scry, a web application that allows users to quickly view important information about their server (such as open ports, logins, and storage).
+Scry includes a local server and client application. The server gathers data about the monitored server, and the client presents that data in an appealing, easy-to-read format. The server runs commands in the background to collect system information and stores it in a MongoDB database.</description>
+    </item>
+    
+    <item>
+      <title>Shelter Finder</title>
+      <link>https://georgeberdovskiy.com/projects/web/shelter-finder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/projects/web/shelter-finder/</guid>
+      <description>Description Shelter Finder is a web application that helps first responders find beds for people without housing in local shelters, and is hosted by FRC Team 1678 Citrus Circuits as an outreach project.
+Shelters can enter and update information about themselves, such as their address, hours, and the total number of beds offered. Shelter staff can use the counter feature to update the number of occupied beds. Depending on its needs, a shelter may choose to use a combination of male, female, nonspecific, and family counters.</description>
+    </item>
+    
+    <item>
+      <title>Vet Anesthesia</title>
+      <link>https://georgeberdovskiy.com/projects/mobile/anesthesia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/projects/mobile/anesthesia/</guid>
+      <description>Description Veterinary Anesthesia is an iOS application I built in collaboration with the Sacramento County Animal Shelter medical team to help them manage anesthesia protocols for dogs and cats.
+First, users input medications using their own dosages and concentrations. Then, they assign them to anesthesia and emergency protocols (in simple terms, lists describing what anesthesia medications should be used during surgery and how much should be administered). This feature offers a great degree of flexibility, allowing countless combinations of drugs depending on the specific needs of veterinarians and technicians.</description>
+    </item>
+    
+    <item>
+      <title>Vet Anesthesia</title>
+      <link>https://georgeberdovskiy.com/projects/mobile/sedations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/projects/mobile/sedations/</guid>
+      <description>Description Veterinary Sedations is an iOS application I built in collaboration with the Sacramento County Animal Shelter medical team to help them perform quick and reliable calculations for sedation protocols on stable dogs and cats in everyday clinical situations. It uses a set list of generic drugs, their concentrations, recommended dosage ranges, and routes to provide reliable results.
+Veterinary Sedations has separate sections for canine and feline records because dosage formulas differ between species.</description>
+    </item>
+    
+    <item>
+      <title>Vet Calculations</title>
+      <link>https://georgeberdovskiy.com/projects/mobile/calculations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/projects/mobile/calculations/</guid>
+      <description>Description Vet Calculations is an iOS application I built in collaboration with the Sacramento County Animal Shelter medical team to help them perform fluid and blood product calculations quickly and easily.
+This application has separate sections for canine and feline records because dosage formulas differ between species. Each section is further divided into pages for fluid, blood transfusion, plasma for albumin deficit, and plasma records.
+When creating new records, users enter important information about the animal (such as name, weight, and gender), which is then used by pre-programmed formulas to calculate dosages and rates.</description>
+    </item>
+    
+    <item>
+      <title>Veterinary CRI</title>
+      <link>https://georgeberdovskiy.com/projects/mobile/cri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://georgeberdovskiy.com/projects/mobile/cri/</guid>
+      <description>Description Veterinary Anesthesia is an iOS application I built in collaboration with the Sacramento County Animal Shelter medical team to help them manage CRIs (constant rate infusions) for dogs and cats. CRI calculations, which are usually very time-consuming and complicated, become fast and easy to perform with this application!
+Veterinary CRI is split into canine and feline sections since dosage formulas differ between the two species. Users can create a new record by entering information about an animal.</description>
+    </item>
+    
+  </channel>
+</rss>
