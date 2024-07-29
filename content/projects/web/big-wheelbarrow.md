@@ -7,7 +7,7 @@ tags: ["Ruby on Rails", "PostgreSQL", "Stimulus"]
 
 {{< section-header kind="description" title="Description" >}}
 
-Between October and November of this year, I worked with a group of computer science and design students at the University of California, Davis as a project manager to build a KPI dashboard for {{< standard-anchor link="https://bigwheelbarrow.com" content="Big Wheelbarrow" >}}. This company helps smaller food producers break into the supply chain using their cloud inventory and order management system.
+Between October and November of this year, I worked with a group of computer science and design students as a project manager to build a KPI dashboard for {{< standard-anchor link="https://bigwheelbarrow.com" content="Big Wheelbarrow" >}}. This company helps smaller food producers break into the supply chain using their cloud inventory and order management system.
 
 Our KPI dashboard collects relevant transaction data, such as gross transaction volume, for some time period using ActiveRecord queries and displays this data across several charts. Four charts display the weekly GTV, highest purchasing locations, lowest purchasing locations, and transaction volume (in both dollars and units) for every producer over the selected time period. Users can change the date range (which is communicated to the Rails server using WebSockets) to analyze performance over different periods of time. 
 
